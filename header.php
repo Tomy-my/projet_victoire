@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/all.css" />
     <link rel="icon" href="images/favicon.png" />
-    <title># : <?php echo $title; ?></title>
+    <title># 1: <?php echo $title; ?></title>
 </head>
 
 <body>
